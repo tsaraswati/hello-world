@@ -1,2 +1,4 @@
 # hello-world
-Always start with hello
+public static void main (String args[]){
+    System.out.println ("Hello world!");
+}
